@@ -1,9 +1,33 @@
+
+
+h1{
+    height: 350px;
+    color: brown;
+    text-decoration: underline;
+    /* background-size:; */
+    background-image:url('digital.jpg')
+    
+    
+}
+.much{
+    background-color:red;
+    border: 401px;
+    border-radius: 20px;
+    border-width: 30%;
+}
 p{
     color: black;
     background-color: wheat;
-    font-size: xx-large;
+    font-size:xx-large;
     font-weight: 800;
-    text-align: center;
-    /* border: 40px; */
-    text-shadow: 90px;
+    /* text-align: center; */
+    border:solid;
+    /* border-width: 30px; */
+    padding: 40px;
+    border-radius: 20px;
+    /* height: 10px; */
+    margin: 30px;
+
+    /* text-shadow: 90px; */
+
 }
