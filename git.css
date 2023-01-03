@@ -5,7 +5,9 @@ h1{
     color: brown;
     text-decoration: underline;
     /* background-size:; */
-    background-image:url('digital.jpg')
+    background-image: url(../download.jpg);
+    /* background-image:url('digital.jpg') */
+
     
     
 }
@@ -15,6 +17,18 @@ h1{
     border-radius: 20px;
     border-width: 30%;
 }
+span{
+    color: blue;
+    font-size: small;
+}
+h2{
+    text-decoration: underline;
+    color: aqua;
+}
+/* #box{ */
+    /* height: min-content; */
+    /* font-weight: 500; */
+/* } */
 p{
     color: black;
     background-color: wheat;
@@ -27,6 +41,13 @@ p{
     border-radius: 20px;
     /* height: 10px; */
     margin: 30px;
+    position:right;
+    background-image: url(../digital.jpg);
+    tab-size: 40px;
+    text-align: right;
+    table-layout:fixed;
+    
+
 
     /* text-shadow: 90px; */
 
